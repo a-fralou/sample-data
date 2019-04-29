@@ -2,84 +2,84 @@
         "id": 0,
         "title": "Impressive Australia",
         "price": 356,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/australia.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/australia.jpg",
         "country": "Australia"
     },
     {
         "id": 1,
         "title": "Visit calm Belarus",
         "price": 184,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/belarus.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/belarus.jpg",
         "country": "Belarus"
     },
     {
         "id": 2,
         "title": "Explore Toronto",
         "price": 500,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/canada.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/canada.jpg",
         "country": "Canada"
     },
     {
         "id": 3,
         "title": "Hot Cypris",
         "price": 250,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/cypris.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/cypris.jpg",
         "country": "Cypris"
     },
     {
         "id": 4,
         "title": "Romantic Greece",
         "price": 328,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/greece.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/greece.jpg",
         "country": "Greece"
     },
     {
         "id": 5,
         "title": "Historical Italy",
         "price": 680,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/italy.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/italy.jpg",
         "country": "Italy"
     },
     {
         "id": 6,
         "title": "Culture rich Japan",
         "price": 799,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/japan.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/japan.jpg",
         "country": "Japan"
     },
     {
         "id": 7,
         "title": "Moscow in a new way",
         "price": 150,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/moscow.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/moscow.jpg",
         "country": "Russia"
     },
     {
         "id": 8,
         "title": "New York",
         "price": 400,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/new-york.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/new-york.jpg",
         "country": "USA"
     },
     {
         "id": 9,
         "title": "Fairytale Norway",
         "price": 1200,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/norway.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/norway.jpg",
         "country": "Norway"
     },
     {
         "id": 10,
         "title": "Soothing Seoul",
         "price": 963,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/seoul.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/seoul.jpg",
         "country": "South Korea"
     },
     {
         "id": 11,
         "title": "South African Cradle",
         "price": 5800,
-        "image": "https://github.com/a-fralou/sample-data/tree/master/react-native/images/south-africa.jpg",
+        "image": "https://raw.githubusercontent.com/a-fralou/sample-data/tree/master/react-native/images/south-africa.jpg",
         "country": "South Africa"
     }
 ]
