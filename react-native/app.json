@@ -1,14 +1,14 @@
 [{
         "id": 0,
         "title": "Impressive Australia",
-        "price": 356,
+        "price": 357,
         "image": "https://raw.githubusercontent.com/a-fralou/sample-data/master/react-native/images/australia.jpg",
         "country": "Australia"
     },
     {
         "id": 1,
         "title": "Visit calm Belarus",
-        "price": 184,
+        "price": 185,
         "image": "https://raw.githubusercontent.com/a-fralou/sample-data/master/react-native/images/belarus.jpg",
         "country": "Belarus"
     },
